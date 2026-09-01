@@ -1,0 +1,13 @@
+POSITIVE
+python src/query.py "What benefit does retrieval augmented generation provide according to the papers?"
+python src/query.py "What is the relationship between vector retrieval and language models?"
+python src/query.py "Which paper discusses version-aware scientific literature?"
+
+PAPER LOOKUP
+python src/query.py "Find the paper with ID 2401.00001"
+
+NEGATIVE
+python src/query.py "What was the exact GDP of India in 2024 according to these papers?"
+
+CONFLICT
+python src/query.py "Do the sample papers agree about whether larger retrieval sets always improve answer quality?"

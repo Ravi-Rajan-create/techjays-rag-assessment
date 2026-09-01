@@ -1,0 +1,5 @@
+ollama
+qdrant-client
+numpy
+requests
+pytest

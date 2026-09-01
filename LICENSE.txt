@@ -1,0 +1,1 @@
+Starter project created for the user's assessment workflow. Replace with the repository's chosen license before public distribution.
